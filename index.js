@@ -1,5 +1,5 @@
 import express from 'express';
-import mongoose from 'mongoose';
+
 
 
 const connectionone ="mongodb+srv://anupa1:1234@cluster0.bcgvj9t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
